@@ -7,7 +7,7 @@ This project demonstrates the usage of Spring IoC in a simple Java application.
 - Maven 3.0 or later
 - Spring Framework 5.0 or later
 
-## Getting Started
+## Getting Started :
 
 1. Clone the repository: <br>
 git clone https://github.com/Hamza-EL-ACHHAB/Inversion-Of-Control-Spring.git
