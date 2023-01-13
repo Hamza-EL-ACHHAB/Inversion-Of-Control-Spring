@@ -1,0 +1,2 @@
+ma.ensa.dao.DaoImpl
+ma.ensa.metier.MetierImpl
