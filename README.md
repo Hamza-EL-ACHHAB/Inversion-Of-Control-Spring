@@ -9,12 +9,12 @@ This project demonstrates the usage of Spring IoC in a simple Java application.
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository: <br>
 git clone https://github.com/Hamza-EL-ACHHAB/Inversion-Of-Control-Spring.git
-2. Build the project:
+2. Build the project: <br>
 mvn clean install
-3. Run the application:
-java -jar target/spring-ioc-sample-1.0-SNAPSHOT.jar
+3. Run the application: <br>
+java -jar target/Inversion-Of-Control-Spring.jar
 
 
 ## Examples
